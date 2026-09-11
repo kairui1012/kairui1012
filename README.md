@@ -61,7 +61,8 @@ A full-stack mental wellness application that combines a Vue interface with a Ja
 ## Used languages
 
 <div align="center">
-  <img src="https://metrics.lecoq.io/kairui1012?base.header=0&amp;base.activity=0&amp;base.community=0&amp;base.repositories=0&amp;base.metadata=0&amp;languages=1&amp;languages.limit=8&amp;languages.colors=github&amp;languages.threshold=0%25&amp;config.timezone=Asia%2FKuala_Lumpur" alt="Used languages" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kairui1012&amp;theme=github_dark" alt="Repositories per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kairui1012&amp;theme=github_dark" alt="Most committed languages" width="49%" />
 </div>
 
 ---
