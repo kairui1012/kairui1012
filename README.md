@@ -1,4 +1,13 @@
-## Pinned
+## About me
+
+I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
+
+- Building a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and Saga-style transaction workflows
+- Developing full-stack applications with **Laravel, Inertia, React, Vue, and Spring Boot**
+- Exploring distributed systems, application security, and production deployment
+- Open to Software Developer opportunities and collaborative projects
+
+## Project
 
 ### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
 
@@ -20,14 +29,6 @@ A full-stack mental wellness application that combines a Vue interface with a Ja
 
 [View live application](https://mental-health-assistence.vercel.app)
 
-## About me
-
-I am a Software Developer based in Kuala Lumpur, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
-
-- Building a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and Saga-style transaction workflows
-- Developing full-stack applications with **Laravel, Inertia, React, Vue, and Spring Boot**
-- Exploring distributed systems, application security, and production deployment
-- Open to Software Developer opportunities and collaborative projects
 
 ## Tech stack
 
