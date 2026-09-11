@@ -1,6 +1,10 @@
 ## About me
 
-![Profile views](https://komarev.com/ghpvc/?username=kairui1012&label=Profile%20views&color=0F766E&style=flat-square)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kairui1012&amp;label=Profile%20views&amp;color=0F766E&amp;style=flat-square" alt="Profile views" />
+  <a href="mailto:kairuisam1012@gmail.com"><img src="https://img.shields.io/badge/Gmail-kairuisam1012%40gmail.com-EA4335?style=flat-square&amp;logo=gmail&amp;logoColor=white" alt="Email Sam Kai Rui" /></a>
+  <a href="https://www.linkedin.com/in/kai-rui-sam-a9a35a257/"><img src="https://img.shields.io/badge/LinkedIn-Kai_Rui_Sam-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Kai Rui Sam on LinkedIn" /></a>
+</div>
 
 I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
 
