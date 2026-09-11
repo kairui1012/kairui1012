@@ -7,6 +7,8 @@ I am a Software Developer based in Malaysia, interested in building practical pr
 - Exploring distributed systems, application security, and production deployment
 - Open to Software Developer opportunities and collaborative projects
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kairui1012=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Project
 
 ### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
