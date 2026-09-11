@@ -27,9 +27,9 @@ A full-stack study platform designed to support learning, community interaction,
 
 ### [Mental Health Assistant](https://github.com/kairui1012/mental-health-assistence)
 
-A full-stack mental wellness application that combines a Vue interface with a Java backend to provide accessible mental health support features.
+A Vue.js frontend for a mental wellness application designed to provide accessible mental health support features.
 
-`Vue.js` `Java` `Spring Boot`
+`Vue.js`
 
 [View live application](https://mental-health-assistence.vercel.app)
 
