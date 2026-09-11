@@ -44,6 +44,15 @@ I am a Software Developer based in Kuala Lumpur, interested in building practica
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
+## Used languages
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kairui1012&amp;theme=github_dark" alt="Repositories per language" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kairui1012&amp;theme=github_dark" alt="Most committed languages" width="49%" />
+  <br />
+  <sub>Calculated automatically from public GitHub repositories.</sub>
+</div>
+
 ## Featured projects
 
 ### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
