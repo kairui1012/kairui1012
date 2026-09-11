@@ -1,5 +1,7 @@
 ## About me
 
+![Profile views](https://komarev.com/ghpvc/?username=kairui1012&label=Profile%20views&color=0F766E&style=flat-square)
+
 I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
 
 - Building a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and Saga-style transaction workflows
@@ -7,7 +9,7 @@ I am a Software Developer based in Malaysia, interested in building practical pr
 - Exploring distributed systems, application security, and production deployment
 - Open to Software Developer opportunities and collaborative projects
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kairui1012=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Project
 
@@ -63,8 +65,7 @@ A full-stack mental wellness application that combines a Vue interface with a Ja
 ## Used languages
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kairui1012&amp;theme=github_dark" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kairui1012&amp;theme=github_dark" alt="Most committed languages" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kairui1012&amp;hide_title=true&amp;hide_border=true&amp;layout=compact&amp;langs_count=6&amp;text_color=000&amp;icon_color=fff&amp;bg_color=0,52fa5a,4dfcff,c64dff&amp;theme=graywhite" alt="Most used languages" />
 </div>
 
 ---
