@@ -1,11 +1,24 @@
-<div align="center">
-  <img src="./assets/profile-header.svg" alt="Sam Kai Rui — Software Developer" width="100%" />
+## Pinned
 
-  <br />
+### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
 
-  <a href="https://kairui.engineer"><img src="https://img.shields.io/badge/Portfolio-kairui.engineer-0F766E?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/kairui1012"><img src="https://img.shields.io/badge/GitHub-kairui1012-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-</div>
+A Java and Spring Boot microservices backend for accounts, transfers, fraud screening, payments, and event-driven notifications. It uses Kafka for asynchronous workflows, Redis for rate limiting and temporary OTP storage, and Saga-style compensation for failed transfers.
+
+`Java 17` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Docker`
+
+### [JomStudy](https://github.com/kairui1012/FYP)
+
+A full-stack study platform designed to support learning, community interaction, and resource sharing through a unified web experience.
+
+`Laravel` `Inertia.js` `React` `TypeScript` `PostgreSQL` `Docker`
+
+### [Mental Health Assistant](https://github.com/kairui1012/mental-health-assistence)
+
+A full-stack mental wellness application that combines a Vue interface with a Java backend to provide accessible mental health support features.
+
+`Vue.js` `Java` `Spring Boot`
+
+[View live application](https://mental-health-assistence.vercel.app)
 
 ## About me
 
@@ -47,41 +60,8 @@ I am a Software Developer based in Kuala Lumpur, interested in building practica
 ## Used languages
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kairui1012&amp;theme=github_dark" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kairui1012&amp;theme=github_dark" alt="Most committed languages" width="49%" />
-  <br />
-  <sub>Calculated automatically from public GitHub repositories.</sub>
+  <img src="https://metrics.lecoq.io/kairui1012?base.header=0&amp;base.activity=0&amp;base.community=0&amp;base.repositories=0&amp;base.metadata=0&amp;languages=1&amp;languages.limit=8&amp;languages.colors=github&amp;languages.threshold=0%25&amp;config.timezone=Asia%2FKuala_Lumpur" alt="Used languages" width="100%" />
 </div>
-
-## Featured projects
-
-### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
-
-A Java and Spring Boot microservices backend for accounts, transfers, fraud screening, payments, and event-driven notifications. It uses Kafka for asynchronous workflows, Redis for rate limiting and temporary OTP storage, and Saga-style compensation for failed transfers.
-
-`Java 17` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Docker`
-
-### [JomStudy](https://github.com/kairui1012/FYP)
-
-A full-stack study platform designed to support learning, community interaction, and resource sharing through a unified web experience.
-
-`Laravel` `Inertia.js` `React` `TypeScript` `PostgreSQL` `Docker`
-
-### [Mental Health Assistant](https://github.com/kairui1012/mental-health-assistence)
-
-A full-stack mental wellness application that combines a Vue interface with a Java backend to provide accessible mental health support features.
-
-`Vue.js` `Java` `Spring Boot`
-
-[View live application](https://mental-health-assistence.vercel.app)
-
-### [Developer Portfolio](https://github.com/kairui1012/react_website)
-
-A responsive personal portfolio presenting my projects, skills, and approach to software development.
-
-`React` `TypeScript` `Vite` `Tailwind CSS`
-
-[View live portfolio](https://kairui.engineer)
 
 ---
 
