@@ -1,4 +1,4 @@
-name: Metrics
+name: Language metrics
 
 on:
   schedule:
@@ -9,30 +9,47 @@ on:
       - main
     paths:
       - ".github/workflows/metrics.yml"
+      - "scripts/generate-language-metrics.mjs"
+      - "package.json"
+      - "package-lock.json"
 
 permissions:
   contents: write
 
 concurrency:
-  group: profile-metrics
+  group: profile-language-metrics
   cancel-in-progress: true
 
 jobs:
-  languages:
+  generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate language metrics
-        uses: lowlighter/metrics@latest
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v7
         with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: kairui1012
-          template: classic
-          base: ""
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_details: bytes-size, percentage
-          plugin_languages_limit: 8
-          plugin_languages_analysis_timeout: 15
-          config_display: large
-          config_timezone: Asia/Kuala_Lumpur
+          node-version: 26
+          cache: npm
+
+      - name: Install LinguistJS
+        run: npm ci
+
+      - name: Generate complete language metrics
+        run: npm run generate:metrics
+        env:
+          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          METRICS_USERNAME: kairui1012
+
+      - name: Commit updated SVG
+        run: |
+          if git diff --quiet -- github-metrics.svg; then
+            echo "Language metrics are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add github-metrics.svg
+          git commit -m "Update language metrics [skip ci]"
+          git push
