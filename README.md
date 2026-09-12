@@ -72,8 +72,7 @@ A Vue.js frontend for a mental wellness application designed to provide accessib
 ## Used languages
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kairui1012&amp;theme=github_dark" alt="Repositories per language" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kairui1012&amp;theme=github_dark" alt="Most committed languages" width="49%" />
+  <img src="./github-metrics.svg" alt="Used languages based on public GitHub repositories" width="100%" />
 </div>
 
 ---
