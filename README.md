@@ -74,9 +74,3 @@ A Vue.js frontend for a mental wellness application designed to provide accessib
 <div align="center">
   <img src="./github-metrics.svg" alt="Used languages based on public GitHub repositories" width="100%" />
 </div>
-
----
-
-<div align="center">
-  <sub>Thanks for visiting. Feel free to explore my repositories and follow what I am building.</sub>
-</div>
