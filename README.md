@@ -29,6 +29,8 @@ A full-stack study platform designed to support learning, community interaction,
 
 `Laravel` `Inertia.js` `React` `TypeScript` `PostgreSQL` `Docker`
 
+[View live application](https://jomstudy.me/)
+
 ### [Mental Health Assistant](https://github.com/kairui1012/mental-health-assistence)
 
 A Vue.js frontend for a mental wellness application designed to provide accessible mental health support features.
