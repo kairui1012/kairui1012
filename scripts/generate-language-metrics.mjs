@@ -139,6 +139,7 @@ function renderSvg({ username, languages, totalBytes }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 ${width} ${height}" role="img" aria-labelledby="title description">
   <title id="title">Used languages for ${escapeXml(username)}</title>
   <desc id="description">LinguistJS analysis of ${languages.length} languages across public repositories owned by ${escapeXml(username)}.</desc>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display", "Helvetica Neue", Arial, sans-serif; }</style>
   <rect width="${width}" height="${height}" rx="14" fill="#0d1117" />
 
   <g transform="translate(${padding} 34)" fill="none" stroke="#c9d1d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
