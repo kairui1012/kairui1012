@@ -34,5 +34,5 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
           plugin_languages_analysis_timeout: 15
-          config_display: columns
+          config_display: large
           config_timezone: Asia/Kuala_Lumpur
