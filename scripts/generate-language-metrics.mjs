@@ -75,7 +75,7 @@ try {
   }
 
   const analysis = await linguist.analyseFolders(folders, {
-    categories: ["data", "markup", "programming"],
+    categories: ["markup", "programming"],
     calculateLines: false,
     keepBinary: false,
     keepVendored: false,
