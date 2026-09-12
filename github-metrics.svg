@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 1068" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 1200 716" role="img" aria-labelledby="title description">
   <title id="title">Used languages for kairui1012</title>
-  <desc id="description">LinguistJS analysis of 38 languages across public repositories owned by kairui1012.</desc>
-  <rect width="1200" height="1068" rx="14" fill="#0d1117" />
+  <desc id="description">LinguistJS analysis of 21 languages across public repositories owned by kairui1012.</desc>
+  <rect width="1200" height="716" rx="14" fill="#0d1117" />
 
   <g transform="translate(38 34)" fill="none" stroke="#c9d1d9" stroke-linecap="round" stroke-linejoin="round" stroke-width="3">
     <rect x="0" y="0" width="31" height="23" rx="3" />
@@ -10,271 +10,152 @@
   <text x="83" y="58" fill="#c9d1d9" font-size="31" font-weight="600">Used languages</text>
 
   <text x="38" y="105" fill="#c9d1d9" font-size="18">
-    <tspan font-weight="700">kairui1012</tspan> has used 38 different languages for a total of 124,913,081 bytes.
+    <tspan font-weight="700">kairui1012</tspan> has used 21 different languages for a total of 7,120,153 bytes.
   </text>
   <text x="38" y="132" fill="#8b949e" font-size="15" font-style="italic">
     Results are produced by LinguistJS from public repositories owned by kairui1012 and may not be entirely accurate.
   </text>
     <g transform="translate(38 164)">
-      <rect width="235.50" height="10" rx="5" fill="#237346" />
-      <text y="40" fill="#237346" font-size="20" font-weight="600">
-        CSV <tspan font-size="16">(93.26%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">116,488,344 bytes</text>
-    </g>
-    <g transform="translate(325.5 164)">
-      <rect width="7.82" height="10" rx="5" fill="#f1e05a" />
+      <rect width="137.12" height="10" rx="5" fill="#f1e05a" />
       <text y="40" fill="#f1e05a" font-size="20" font-weight="600">
-        JavaScript <tspan font-size="16">(1.78%)</tspan>
+        JavaScript <tspan font-size="16">(31.16%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,218,921 bytes</text>
     </g>
-    <g transform="translate(613 164)">
-      <rect width="4.00" height="10" rx="5" fill="#3178c6" />
+    <g transform="translate(325.5 164)">
+      <rect width="69.99" height="10" rx="5" fill="#3178c6" />
       <text y="40" fill="#3178c6" font-size="20" font-weight="600">
-        TypeScript <tspan font-size="16">(0.91%)</tspan>
+        TypeScript <tspan font-size="16">(15.91%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">1,132,663 bytes</text>
     </g>
-    <g transform="translate(900.5 164)">
-      <rect width="4.00" height="10" rx="5" fill="#b07219" />
+    <g transform="translate(613 164)">
+      <rect width="51.84" height="10" rx="5" fill="#b07219" />
       <text y="40" fill="#b07219" font-size="20" font-weight="600">
-        Java <tspan font-size="16">(0.67%)</tspan>
+        Java <tspan font-size="16">(11.78%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">838,819 bytes</text>
     </g>
-    <g transform="translate(38 252)">
-      <rect width="4.00" height="10" rx="5" fill="#4F5D95" />
+    <g transform="translate(900.5 164)">
+      <rect width="48.33" height="10" rx="5" fill="#4F5D95" />
       <text y="40" fill="#4F5D95" font-size="20" font-weight="600">
-        PHP <tspan font-size="16">(0.63%)</tspan>
+        PHP <tspan font-size="16">(10.98%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">782,055 bytes</text>
     </g>
-    <g transform="translate(325.5 252)">
-      <rect width="4.00" height="10" rx="5" fill="#e34c26" />
+    <g transform="translate(38 252)">
+      <rect width="42.27" height="10" rx="5" fill="#e34c26" />
       <text y="40" fill="#e34c26" font-size="20" font-weight="600">
-        HTML <tspan font-size="16">(0.55%)</tspan>
+        HTML <tspan font-size="16">(9.61%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">684,027 bytes</text>
     </g>
-    <g transform="translate(613 252)">
-      <rect width="4.00" height="10" rx="5" fill="#7355dd" />
+    <g transform="translate(325.5 252)">
+      <rect width="36.04" height="10" rx="5" fill="#7355dd" />
       <text y="40" fill="#7355dd" font-size="20" font-weight="600">
-        C# <tspan font-size="16">(0.47%)</tspan>
+        C# <tspan font-size="16">(8.19%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">583,189 bytes</text>
     </g>
-    <g transform="translate(900.5 252)">
-      <rect width="4.00" height="10" rx="5" fill="#ff9900" />
-      <text y="40" fill="#ff9900" font-size="20" font-weight="600">
-        SVG <tspan font-size="16">(0.39%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">488,858 bytes</text>
-    </g>
-    <g transform="translate(38 340)">
-      <rect width="4.00" height="10" rx="5" fill="#e38c00" />
-      <text y="40" fill="#e38c00" font-size="20" font-weight="600">
-        SQL <tspan font-size="16">(0.32%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">393,607 bytes</text>
-    </g>
-    <g transform="translate(325.5 340)">
-      <rect width="4.00" height="10" rx="5" fill="#663399" />
+    <g transform="translate(613 252)">
+      <rect width="17.94" height="10" rx="5" fill="#663399" />
       <text y="40" fill="#663399" font-size="20" font-weight="600">
-        CSS <tspan font-size="16">(0.23%)</tspan>
+        CSS <tspan font-size="16">(4.08%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">290,370 bytes</text>
     </g>
-    <g transform="translate(613 340)">
-      <rect width="4.00" height="10" rx="5" fill="#292929" />
-      <text y="40" fill="#292929" font-size="20" font-weight="600">
-        JSON <tspan font-size="16">(0.16%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">198,148 bytes</text>
-    </g>
-    <g transform="translate(900.5 340)">
-      <rect width="4.00" height="10" rx="5" fill="#0060ac" />
-      <text y="40" fill="#0060ac" font-size="20" font-weight="600">
-        XML <tspan font-size="16">(0.15%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">189,165 bytes</text>
-    </g>
-    <g transform="translate(38 428)">
-      <rect width="4.00" height="10" rx="5" fill="#41b883" />
+    <g transform="translate(900.5 252)">
+      <rect width="11.55" height="10" rx="5" fill="#41b883" />
       <text y="40" fill="#41b883" font-size="20" font-weight="600">
-        Vue <tspan font-size="16">(0.15%)</tspan>
+        Vue <tspan font-size="16">(2.62%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">186,850 bytes</text>
     </g>
-    <g transform="translate(325.5 428)">
-      <rect width="4.00" height="10" rx="5" fill="#f34b7d" />
+    <g transform="translate(38 340)">
+      <rect width="9.81" height="10" rx="5" fill="#f34b7d" />
       <text y="40" fill="#f34b7d" font-size="20" font-weight="600">
-        C++ <tspan font-size="16">(0.13%)</tspan>
+        C++ <tspan font-size="16">(2.23%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">158,758 bytes</text>
     </g>
-    <g transform="translate(613 428)">
-      <rect width="4.00" height="10" rx="5" fill="#3572A5" />
+    <g transform="translate(325.5 340)">
+      <rect width="7.30" height="10" rx="5" fill="#3572A5" />
       <text y="40" fill="#3572A5" font-size="20" font-weight="600">
-        Python <tspan font-size="16">(0.09%)</tspan>
+        Python <tspan font-size="16">(1.66%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">118,154 bytes</text>
     </g>
-    <g transform="translate(900.5 428)">
+    <g transform="translate(613 340)">
       <rect width="4.00" height="10" rx="5" fill="#e38c00" />
       <text y="40" fill="#e38c00" font-size="20" font-weight="600">
-        TSQL <tspan font-size="16">(0.04%)</tspan>
+        TSQL <tspan font-size="16">(0.77%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">54,920 bytes</text>
     </g>
-    <g transform="translate(38 516)">
+    <g transform="translate(900.5 340)">
       <rect width="4.00" height="10" rx="5" fill="#00B4AB" />
       <text y="40" fill="#00B4AB" font-size="20" font-weight="600">
-        Dart <tspan font-size="16">(0.03%)</tspan>
+        Dart <tspan font-size="16">(0.51%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">36,562 bytes</text>
     </g>
-    <g transform="translate(325.5 516)">
+    <g transform="translate(38 428)">
       <rect width="4.00" height="10" rx="5" fill="#DA3434" />
       <text y="40" fill="#DA3434" font-size="20" font-weight="600">
-        CMake <tspan font-size="16">(0.02%)</tspan>
+        CMake <tspan font-size="16">(0.28%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">19,728 bytes</text>
     </g>
-    <g transform="translate(613 516)">
-      <rect width="4.00" height="10" rx="5" fill="#cb171e" />
-      <text y="40" fill="#cb171e" font-size="20" font-weight="600">
-        YAML <tspan font-size="16">(0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">15,857 bytes</text>
-    </g>
-    <g transform="translate(900.5 516)">
-      <rect width="4.00" height="10" rx="5" fill="#d1dbe0" />
-      <text y="40" fill="#d1dbe0" font-size="20" font-weight="600">
-        INI <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">6,529 bytes</text>
-    </g>
-    <g transform="translate(38 604)">
+    <g transform="translate(325.5 428)">
       <rect width="4.00" height="10" rx="5" fill="#f7523f" />
       <text y="40" fill="#f7523f" font-size="20" font-weight="600">
-        Blade <tspan font-size="16">(&lt;0.01%)</tspan>
+        Blade <tspan font-size="16">(0.07%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">5,299 bytes</text>
     </g>
-    <g transform="translate(325.5 604)">
-      <rect width="4.00" height="10" rx="5" fill="#A9157E" />
-      <text y="40" fill="#A9157E" font-size="20" font-weight="600">
-        Ant Build System <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">3,548 bytes</text>
-    </g>
-    <g transform="translate(613 604)">
+    <g transform="translate(613 428)">
       <rect width="4.00" height="10" rx="5" fill="#384d54" />
       <text y="40" fill="#384d54" font-size="20" font-weight="600">
-        Dockerfile <tspan font-size="16">(&lt;0.01%)</tspan>
+        Dockerfile <tspan font-size="16">(0.04%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,982 bytes</text>
     </g>
-    <g transform="translate(900.5 604)">
+    <g transform="translate(900.5 428)">
       <rect width="4.00" height="10" rx="5" fill="#701516" />
       <text y="40" fill="#701516" font-size="20" font-weight="600">
-        Ruby <tspan font-size="16">(&lt;0.01%)</tspan>
+        Ruby <tspan font-size="16">(0.04%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,757 bytes</text>
     </g>
-    <g transform="translate(38 692)">
-      <rect width="4.00" height="10" rx="5" fill="#02303a" />
-      <text y="40" fill="#02303a" font-size="20" font-weight="600">
-        Gradle <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">2,648 bytes</text>
-    </g>
-    <g transform="translate(325.5 692)">
-      <rect width="4.00" height="10" rx="5" fill="#e5d559" />
-      <text y="40" fill="#e5d559" font-size="20" font-weight="600">
-        Dotenv <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">2,249 bytes</text>
-    </g>
-    <g transform="translate(613 692)">
+    <g transform="translate(38 516)">
       <rect width="4.00" height="10" rx="5" fill="#F05138" />
       <text y="40" fill="#F05138" font-size="20" font-weight="600">
-        Swift <tspan font-size="16">(&lt;0.01%)</tspan>
+        Swift <tspan font-size="16">(0.03%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,034 bytes</text>
     </g>
-    <g transform="translate(900.5 692)">
-      <rect width="4.00" height="10" rx="5" fill="#8b949e" />
-      <text y="40" fill="#8b949e" font-size="20" font-weight="600">
-        Microsoft Visual Studio Solution <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">1,600 bytes</text>
-    </g>
-    <g transform="translate(38 780)">
+    <g transform="translate(325.5 516)">
       <rect width="4.00" height="10" rx="5" fill="#555555" />
       <text y="40" fill="#555555" font-size="20" font-weight="600">
-        C <tspan font-size="16">(&lt;0.01%)</tspan>
+        C <tspan font-size="16">(0.02%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">1,425 bytes</text>
     </g>
-    <g transform="translate(325.5 780)">
-      <rect width="4.00" height="10" rx="5" fill="#d12127" />
-      <text y="40" fill="#d12127" font-size="20" font-weight="600">
-        ApacheConf <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">740 bytes</text>
-    </g>
-    <g transform="translate(613 780)">
-      <rect width="4.00" height="10" rx="5" fill="#8b949e" />
-      <text y="40" fill="#8b949e" font-size="20" font-weight="600">
-        Robots Exclusion Rules <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">523 bytes</text>
-    </g>
-    <g transform="translate(900.5 780)">
-      <rect width="4.00" height="10" rx="5" fill="#009639" />
-      <text y="40" fill="#009639" font-size="20" font-weight="600">
-        Nginx <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">478 bytes</text>
-    </g>
-    <g transform="translate(38 868)">
+    <g transform="translate(613 516)">
       <rect width="4.00" height="10" rx="5" fill="#ff3670" />
       <text y="40" fill="#ff3670" font-size="20" font-weight="600">
         Mermaid <tspan font-size="16">(&lt;0.01%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">477 bytes</text>
     </g>
-    <g transform="translate(325.5 868)">
-      <rect width="4.00" height="10" rx="5" fill="#000000" />
-      <text y="40" fill="#000000" font-size="20" font-weight="600">
-        Ignore List <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">364 bytes</text>
-    </g>
-    <g transform="translate(613 868)">
-      <rect width="4.00" height="10" rx="5" fill="#FFD343" />
-      <text y="40" fill="#FFD343" font-size="20" font-weight="600">
-        Pip Requirements <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">188 bytes</text>
-    </g>
-    <g transform="translate(900.5 868)">
+    <g transform="translate(900.5 516)">
       <rect width="4.00" height="10" rx="5" fill="#A97BFF" />
       <text y="40" fill="#A97BFF" font-size="20" font-weight="600">
         Kotlin <tspan font-size="16">(&lt;0.01%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">125 bytes</text>
     </g>
-    <g transform="translate(38 956)">
-      <rect width="4.00" height="10" rx="5" fill="#b07219" />
-      <text y="40" fill="#b07219" font-size="20" font-weight="600">
-        JAR Manifest <tspan font-size="16">(&lt;0.01%)</tspan>
-      </text>
-      <text y="67" fill="#8b949e" font-size="16">82 bytes</text>
-    </g>
-    <g transform="translate(325.5 956)">
+    <g transform="translate(38 604)">
       <rect width="4.00" height="10" rx="5" fill="#438eff" />
       <text y="40" fill="#438eff" font-size="20" font-weight="600">
         Objective-C <tspan font-size="16">(&lt;0.01%)</tspan>
