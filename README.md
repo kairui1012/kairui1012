@@ -23,6 +23,18 @@ A Java and Spring Boot microservices backend for accounts, transfers, fraud scre
 
 `Java 17` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Docker`
 
+### [Ubeer](https://github.com/kairui1012/ubeer)
+
+A ride-hailing backend where I implemented core functionality for driver location tracking, nearby-driver search, ride requests, fare estimation, and ride lifecycle management. The services use Redis GEO for real-time locations, MySQL for ride data, and Kafka for the ride-request and driver-matching flow.
+
+`Java 17` `Spring Boot` `Apache Kafka` `Redis GEO` `MySQL` `Docker`
+
+### [FlashTicket](https://github.com/kairui1012/flashticket)
+
+A microservices ticketing platform where I implemented core authentication and gateway functionality, including account registration and login, BCrypt password protection, JWT issuance, MySQL persistence with MyBatis, and Redis-based rate limiting. Ticket management and the wider high-demand booking flow are under active development.
+
+`Java` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `JWT` `Redis` `MySQL` `MyBatis`
+
 ### [JomStudy](https://github.com/kairui1012/FYP)
 
 A full-stack study platform designed to support learning, community interaction, and resource sharing through a unified web experience.
