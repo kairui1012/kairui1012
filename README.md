@@ -8,10 +8,10 @@
 
 I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
 
-- Building a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and Saga-style transaction workflows
+- Building **FlashTicket** and a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and MySQL
+- Implementing event-driven workflows, atomic inventory operations, idempotent processing, and Saga-style compensation
 - Developing full-stack applications with **Laravel, Inertia, React, Vue, and Spring Boot**
-- Exploring distributed systems, application security, and production deployment
-- Open to Software Developer opportunities and collaborative projects
+- Interested in distributed systems, application security, production deployment, and Software Developer opportunities
 
 
 
