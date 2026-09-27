@@ -31,9 +31,11 @@ A ride-hailing backend where I implemented core functionality for driver locatio
 
 ### [FlashTicket](https://github.com/kairui1012/flashticket)
 
-A microservices ticketing platform where I implemented core authentication and gateway functionality, including account registration and login, BCrypt password protection, JWT issuance, MySQL persistence with MyBatis, and Redis-based rate limiting. Ticket management and the wider high-demand booking flow are under active development.
+A Java 21 and Spring Boot microservices backend for high-concurrency ticket sales. I implemented JWT-based access control, ticket caching, atomic stock reservation and release with Redis Lua scripts, Kafka-driven inventory and order processing, and five-minute unpaid-order expiration with retryable, idempotent stock compensation.
 
-`Java` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `JWT` `Redis` `MySQL` `MyBatis`
+The inventory path was validated with real HTTP, Redis, Kafka, and MySQL checks without negative stock or overselling. A JMeter run recorded approximately **1,905.9 requests/second** across 10,000 requests competing for 1,000 tickets; this figure includes expected sold-out responses and excludes API Gateway overhead. Payment processing and the wider fulfilment flow remain under development.
+
+`Java 21` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Apache Kafka` `Redis Lua` `MySQL` `MyBatis` `Flyway` `Docker` `JMeter`
 
 ### [JomStudy](https://github.com/kairui1012/FYP)
 
