@@ -11,76 +11,76 @@
   <text x="83" y="58" fill="#c9d1d9" font-size="31" font-weight="600">Used languages</text>
 
   <text x="38" y="105" fill="#c9d1d9" font-size="18">
-    <tspan font-weight="700">kairui1012</tspan> has used 22 different languages for a total of 7,333,567 bytes.
+    <tspan font-weight="700">kairui1012</tspan> has used 22 different languages for a total of 7,349,885 bytes.
   </text>
   <text x="38" y="132" fill="#8b949e" font-size="15" font-style="italic">
     Results are produced by LinguistJS from public repositories owned by kairui1012 and may not be entirely accurate.
   </text>
     <g transform="translate(38 164)">
-      <rect width="133.13" height="10" rx="5" fill="#f1e05a" />
+      <rect width="132.84" height="10" rx="5" fill="#f1e05a" />
       <text y="40" fill="#f1e05a" font-size="20" font-weight="600">
-        JavaScript <tspan font-size="16">(30.26%)</tspan>
+        JavaScript <tspan font-size="16">(30.19%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,218,921 bytes</text>
     </g>
     <g transform="translate(325.5 164)">
-      <rect width="67.96" height="10" rx="5" fill="#3178c6" />
+      <rect width="67.81" height="10" rx="5" fill="#3178c6" />
       <text y="40" fill="#3178c6" font-size="20" font-weight="600">
-        TypeScript <tspan font-size="16">(15.44%)</tspan>
+        TypeScript <tspan font-size="16">(15.41%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">1,132,663 bytes</text>
     </g>
     <g transform="translate(613 164)">
-      <rect width="62.82" height="10" rx="5" fill="#b07219" />
+      <rect width="63.66" height="10" rx="5" fill="#b07219" />
       <text y="40" fill="#b07219" font-size="20" font-weight="600">
-        Java <tspan font-size="16">(14.28%)</tspan>
+        Java <tspan font-size="16">(14.47%)</tspan>
       </text>
-      <text y="67" fill="#8b949e" font-size="16">1,047,057 bytes</text>
+      <text y="67" fill="#8b949e" font-size="16">1,063,375 bytes</text>
     </g>
     <g transform="translate(900.5 164)">
-      <rect width="46.92" height="10" rx="5" fill="#4F5D95" />
+      <rect width="46.82" height="10" rx="5" fill="#4F5D95" />
       <text y="40" fill="#4F5D95" font-size="20" font-weight="600">
-        PHP <tspan font-size="16">(10.66%)</tspan>
+        PHP <tspan font-size="16">(10.64%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">782,055 bytes</text>
     </g>
     <g transform="translate(38 252)">
-      <rect width="41.04" height="10" rx="5" fill="#e34c26" />
+      <rect width="40.95" height="10" rx="5" fill="#e34c26" />
       <text y="40" fill="#e34c26" font-size="20" font-weight="600">
-        HTML <tspan font-size="16">(9.33%)</tspan>
+        HTML <tspan font-size="16">(9.31%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">684,027 bytes</text>
     </g>
     <g transform="translate(325.5 252)">
-      <rect width="34.99" height="10" rx="5" fill="#7355dd" />
+      <rect width="34.91" height="10" rx="5" fill="#7355dd" />
       <text y="40" fill="#7355dd" font-size="20" font-weight="600">
-        C# <tspan font-size="16">(7.95%)</tspan>
+        C# <tspan font-size="16">(7.93%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">583,189 bytes</text>
     </g>
     <g transform="translate(613 252)">
-      <rect width="17.42" height="10" rx="5" fill="#663399" />
+      <rect width="17.38" height="10" rx="5" fill="#663399" />
       <text y="40" fill="#663399" font-size="20" font-weight="600">
-        CSS <tspan font-size="16">(3.96%)</tspan>
+        CSS <tspan font-size="16">(3.95%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">290,370 bytes</text>
     </g>
     <g transform="translate(900.5 252)">
-      <rect width="11.21" height="10" rx="5" fill="#41b883" />
+      <rect width="11.19" height="10" rx="5" fill="#41b883" />
       <text y="40" fill="#41b883" font-size="20" font-weight="600">
-        Vue <tspan font-size="16">(2.55%)</tspan>
+        Vue <tspan font-size="16">(2.54%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">186,850 bytes</text>
     </g>
     <g transform="translate(38 340)">
-      <rect width="9.53" height="10" rx="5" fill="#f34b7d" />
+      <rect width="9.50" height="10" rx="5" fill="#f34b7d" />
       <text y="40" fill="#f34b7d" font-size="20" font-weight="600">
         C++ <tspan font-size="16">(2.16%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">158,758 bytes</text>
     </g>
     <g transform="translate(325.5 340)">
-      <rect width="7.09" height="10" rx="5" fill="#3572A5" />
+      <rect width="7.07" height="10" rx="5" fill="#3572A5" />
       <text y="40" fill="#3572A5" font-size="20" font-weight="600">
         Python <tspan font-size="16">(1.61%)</tspan>
       </text>
