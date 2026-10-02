@@ -23,19 +23,13 @@ A Java and Spring Boot microservices backend for accounts, transfers, fraud scre
 
 `Java 17` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Docker`
 
-### [Ubeer](https://github.com/kairui1012/ubeer)
-
-A ride-hailing backend where I implemented core functionality for driver location tracking, nearby-driver search, ride requests, fare estimation, and ride lifecycle management. The services use Redis GEO for real-time locations, MySQL for ride data, and Kafka for the ride-request and driver-matching flow.
-
-`Java 17` `Spring Boot` `Apache Kafka` `Redis GEO` `MySQL` `Docker`
-
 ### [FlashTicket](https://github.com/kairui1012/flashticket)
 
-A Java 21 and Spring Boot microservices backend for high-concurrency ticket sales. I implemented JWT-based access control, ticket caching, atomic stock reservation and release with Redis Lua scripts, Kafka-driven inventory and order processing, and five-minute unpaid-order expiration with retryable, idempotent stock compensation.
+A Java 21 and Spring Boot microservices backend for high-concurrency ticket sales. I implemented JWT-based access control, Redis Lua stock operations, Kafka-driven order and payment workflows, transactional outbox processing, and retryable, idempotent inventory compensation.
 
-The inventory path was validated with real HTTP, Redis, Kafka, and MySQL checks without negative stock or overselling. A JMeter run recorded approximately **1,905.9 requests/second** across 10,000 requests competing for 1,000 tickets; this figure includes expected sold-out responses and excludes API Gateway overhead. Payment processing and the wider fulfilment flow remain under development.
+The end-to-end Stripe Test Mode flow was validated from hosted Checkout and signed webhook processing through Payment `SUCCEEDED`, Kafka `payment.succeeded`, and Order `PAID`. Real HTTP, Redis, Kafka, and MySQL checks also verified cancellation, five-minute expiration, and stock recovery without overselling. A direct Inventory Service JMeter run recorded approximately **1,905.9 requests/second** across 10,000 requests competing for 1,000 tickets, including expected sold-out responses and excluding API Gateway overhead.
 
-`Java 21` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Apache Kafka` `Redis Lua` `MySQL` `MyBatis` `Flyway` `Docker` `JMeter`
+`Java 21` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Apache Kafka` `Redis Lua` `MySQL` `MyBatis` `Flyway` `Stripe` `Docker` `JMeter`
 
 ### [JomStudy](https://github.com/kairui1012/FYP)
 
