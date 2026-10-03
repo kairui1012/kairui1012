@@ -31,6 +31,12 @@ The end-to-end Stripe Test Mode flow was validated from hosted Checkout and sign
 
 `Java 21` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Apache Kafka` `Redis Lua` `MySQL` `MyBatis` `Flyway` `Stripe` `Docker` `JMeter`
 
+### [Java Shell](https://github.com/kairui1012/terminal)
+
+An interactive command-line shell built with Java 21. It supports built-in commands, PATH-based external program execution, quote-aware argument parsing, stdout and stderr redirection with overwrite and append modes, and basic tab completion through JLine.
+
+`Java 21` `JLine` `Maven` `ProcessBuilder`
+
 ### [JomStudy](https://github.com/kairui1012/FYP)
 
 A full-stack study platform designed to support learning, community interaction, and resource sharing through a unified web experience.
