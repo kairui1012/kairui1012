@@ -19,37 +19,37 @@ I am a Software Developer based in Malaysia, interested in building practical pr
 
 ### [Digital Banking System](https://github.com/kairui1012/digital-banking-system)
 
-A Java and Spring Boot microservices backend for accounts, transfers, fraud screening, payments, and event-driven notifications. It uses Kafka for asynchronous workflows, Redis for rate limiting and temporary OTP storage, and Saga-style compensation for failed transfers.
+An event-driven banking backend that coordinates transfers across independent Spring Boot services. Kafka-based Saga workflows compensate failed transfers, while Redis-backed fraud checks, five-minute OTP verification, account blocking, and API Gateway rate limits protect sensitive operations.
 
 `Java 17` `Spring Boot` `Apache Kafka` `Redis` `MySQL` `Docker`
 
 ### [FlashTicket](https://github.com/kairui1012/flashticket)
 
-A Java 21 and Spring Boot microservices backend for high-concurrency ticket sales. I implemented JWT-based access control, Redis Lua stock operations, Kafka-driven order and payment workflows, transactional outbox processing, and retryable, idempotent inventory compensation.
+A high-concurrency ticketing backend built as Java 21 microservices. Redis Lua scripts reserve and release stock atomically, while Kafka, a transactional outbox, and idempotent compensation keep inventory, orders, and Stripe payments consistent through success, cancellation, and expiry flows.
 
-The end-to-end Stripe Test Mode flow was validated from hosted Checkout and signed webhook processing through Payment `SUCCEEDED`, Kafka `payment.succeeded`, and Order `PAID`. Real HTTP, Redis, Kafka, and MySQL checks also verified cancellation, five-minute expiration, and stock recovery without overselling. A direct Inventory Service JMeter run recorded approximately **1,905.9 requests/second** across 10,000 requests competing for 1,000 tickets, including expected sold-out responses and excluding API Gateway overhead.
+The complete Stripe Test Mode payment path was validated from hosted Checkout and signed webhooks to Payment `SUCCEEDED` and Order `PAID`. In a direct Inventory Service JMeter run, the system processed 10,000 competing requests at approximately **1,905.9 requests/second** without overselling; the figure includes expected sold-out responses and excludes API Gateway overhead.
 
 `Java 21` `Spring Boot` `Spring Cloud Gateway` `Spring Security` `Apache Kafka` `Redis Lua` `MySQL` `MyBatis` `Flyway` `Stripe` `Docker` `JMeter`
 
 ### [Java Shell](https://github.com/kairui1012/terminal)
 
-An interactive command-line shell built with Java 21. It supports built-in commands, PATH-based external program execution, quote-aware argument parsing, stdout and stderr redirection with overwrite and append modes, and basic tab completion through JLine.
+An interactive Unix-style shell written in Java 21 to explore how command interpreters work. It combines quote-aware parsing, built-in commands, PATH-based process execution, separate stdout/stderr overwrite and append redirection, and JLine tab completion in a continuous REPL.
 
 `Java 21` `JLine` `Maven` `ProcessBuilder`
 
 ### [JomStudy](https://github.com/kairui1012/FYP)
 
-A full-stack study platform designed to support learning, community interaction, and resource sharing through a unified web experience.
+A full-stack learning platform built with Laravel 12, React 19, TypeScript, and Inertia. It integrates DeepSeek for multilingual explanations and quiz generation, tracks question-level mistakes and learning progress for teacher insights, and uses transaction-safe point awards with cached weekly, monthly, and all-time leaderboards.
 
-`Laravel` `Inertia.js` `React` `TypeScript` `PostgreSQL` `Docker`
+`Laravel 12` `Inertia.js` `React 19` `TypeScript` `DeepSeek API` `PostgreSQL` `Docker`
 
 [View live application](https://jomstudy.me/)
 
 ### [Mental Health Assistant](https://github.com/kairui1012/mental-health-assistence)
 
-A Vue.js frontend for a mental wellness application designed to provide accessible mental health support features.
+A Vue 3 mental wellness frontend that streams AI-assisted counselling responses through SSE and preserves multi-session conversation history with emotion and risk insights. It also provides role-protected user and administrator flows, centralized token-expiry handling, and ECharts dashboards for consultation and activity trends.
 
-`Vue.js`
+`Vue 3` `Vite` `Server-Sent Events` `Vue Router` `Axios` `Element Plus` `ECharts`
 
 [View live application](https://mental-health-assistence.vercel.app)
 
