@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/kai-rui-sam-a9a35a257/"><img src="https://img.shields.io/badge/LinkedIn-Kai_Rui_Sam-0A66C2?style=flat-square&amp;logo=linkedin&amp;logoColor=white" alt="Kai Rui Sam on LinkedIn" /></a>
 </div>
 
-I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.
+I am a Software Developer based in Malaysia, interested in building practical products and dependable backend systems. I enjoy working across the stack—from designing responsive interfaces to developing APIs, event-driven services, and cloud-ready applications.👍
 
 - Building **FlashTicket** and a **Digital Banking System** with Spring Boot microservices, Kafka, Redis, and MySQL
 - Implementing event-driven workflows, atomic inventory operations, idempotent processing, and Saga-style compensation
