@@ -39,7 +39,7 @@ jobs:
       - name: Generate complete language metrics
         run: npm run generate:metrics
         env:
-          METRICS_TOKEN: ${{ secrets.METRICS_TOKEN }}
+          METRICS_TOKEN: ${{ github.token }}
           METRICS_USERNAME: kairui1012
 
       - name: Commit updated SVG
