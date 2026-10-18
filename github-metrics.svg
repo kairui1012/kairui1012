@@ -11,7 +11,7 @@
   <text x="83" y="58" fill="#c9d1d9" font-size="31" font-weight="600">Used languages</text>
 
   <text x="38" y="105" fill="#c9d1d9" font-size="18">
-    <tspan font-weight="700">kairui1012</tspan> has used 23 different languages for a total of 7,422,532 bytes.
+    <tspan font-weight="700">kairui1012</tspan> has used 23 different languages for a total of 7,422,542 bytes.
   </text>
   <text x="38" y="132" fill="#8b949e" font-size="15" font-style="italic">
     Results are produced by LinguistJS from public repositories owned by kairui1012 and may not be entirely accurate.
@@ -84,7 +84,7 @@
       <text y="40" fill="#3572A5" font-size="20" font-weight="600">
         Python <tspan font-size="16">(1.67%)</tspan>
       </text>
-      <text y="67" fill="#8b949e" font-size="16">124,134 bytes</text>
+      <text y="67" fill="#8b949e" font-size="16">124,144 bytes</text>
     </g>
     <g transform="translate(613 340)">
       <rect width="4.00" height="10" rx="5" fill="#e38c00" />
