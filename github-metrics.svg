@@ -11,43 +11,43 @@
   <text x="83" y="58" fill="#c9d1d9" font-size="31" font-weight="600">Used languages</text>
 
   <text x="38" y="105" fill="#c9d1d9" font-size="18">
-    <tspan font-weight="700">kairui1012</tspan> has used 23 different languages for a total of 7,422,542 bytes.
+    <tspan font-weight="700">kairui1012</tspan> has used 23 different languages for a total of 7,423,581 bytes.
   </text>
   <text x="38" y="132" fill="#8b949e" font-size="15" font-style="italic">
     Results are produced by LinguistJS from public repositories owned by kairui1012 and may not be entirely accurate.
   </text>
     <g transform="translate(38 164)">
-      <rect width="131.54" height="10" rx="5" fill="#f1e05a" />
+      <rect width="131.52" height="10" rx="5" fill="#f1e05a" />
       <text y="40" fill="#f1e05a" font-size="20" font-weight="600">
         JavaScript <tspan font-size="16">(29.89%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">2,218,921 bytes</text>
     </g>
     <g transform="translate(325.5 164)">
-      <rect width="67.14" height="10" rx="5" fill="#3178c6" />
+      <rect width="67.13" height="10" rx="5" fill="#3178c6" />
       <text y="40" fill="#3178c6" font-size="20" font-weight="600">
         TypeScript <tspan font-size="16">(15.26%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">1,132,663 bytes</text>
     </g>
     <g transform="translate(613 164)">
-      <rect width="66.86" height="10" rx="5" fill="#b07219" />
+      <rect width="66.85" height="10" rx="5" fill="#b07219" />
       <text y="40" fill="#b07219" font-size="20" font-weight="600">
-        Java <tspan font-size="16">(15.2%)</tspan>
+        Java <tspan font-size="16">(15.19%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">1,127,926 bytes</text>
     </g>
     <g transform="translate(900.5 164)">
-      <rect width="46.36" height="10" rx="5" fill="#4F5D95" />
+      <rect width="46.35" height="10" rx="5" fill="#4F5D95" />
       <text y="40" fill="#4F5D95" font-size="20" font-weight="600">
-        PHP <tspan font-size="16">(10.54%)</tspan>
+        PHP <tspan font-size="16">(10.53%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">782,055 bytes</text>
     </g>
     <g transform="translate(38 252)">
-      <rect width="40.55" height="10" rx="5" fill="#e34c26" />
+      <rect width="40.54" height="10" rx="5" fill="#e34c26" />
       <text y="40" fill="#e34c26" font-size="20" font-weight="600">
-        HTML <tspan font-size="16">(9.22%)</tspan>
+        HTML <tspan font-size="16">(9.21%)</tspan>
       </text>
       <text y="67" fill="#8b949e" font-size="16">684,027 bytes</text>
     </g>
@@ -66,7 +66,7 @@
       <text y="67" fill="#8b949e" font-size="16">290,370 bytes</text>
     </g>
     <g transform="translate(900.5 252)">
-      <rect width="11.08" height="10" rx="5" fill="#41b883" />
+      <rect width="11.07" height="10" rx="5" fill="#41b883" />
       <text y="40" fill="#41b883" font-size="20" font-weight="600">
         Vue <tspan font-size="16">(2.52%)</tspan>
       </text>
@@ -80,11 +80,11 @@
       <text y="67" fill="#8b949e" font-size="16">158,758 bytes</text>
     </g>
     <g transform="translate(325.5 340)">
-      <rect width="7.36" height="10" rx="5" fill="#3572A5" />
+      <rect width="7.42" height="10" rx="5" fill="#3572A5" />
       <text y="40" fill="#3572A5" font-size="20" font-weight="600">
-        Python <tspan font-size="16">(1.67%)</tspan>
+        Python <tspan font-size="16">(1.69%)</tspan>
       </text>
-      <text y="67" fill="#8b949e" font-size="16">124,144 bytes</text>
+      <text y="67" fill="#8b949e" font-size="16">125,183 bytes</text>
     </g>
     <g transform="translate(613 340)">
       <rect width="4.00" height="10" rx="5" fill="#e38c00" />
